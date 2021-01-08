@@ -14,7 +14,7 @@
 | Pinneapple on pizza | [ ] Oui   [x] Non                  |
 
 ## Hobbies
-
+ 
 * Sneakers 
 * Music
   * Rap
@@ -30,4 +30,4 @@
  ### TL;DR
 
 
- [Arnaud Want]()
+ [Arnaud Want](https://github.com/Naudar79/WantArnaud/blob/master/WantArnaud.md)
