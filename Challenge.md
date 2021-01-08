@@ -5,8 +5,12 @@
 
 ## 
 
-| birthday | 12/12
-| gender   | male
-| Favorite color | #000000
-| favorite food | pizza
-|pinneapple on pizza | [ ]yes[x]no
+| Information         | Answers                            |
+| ------------------  | ---------------------------------- |
+| Birthday            | 12 / 12                            |
+| Gender              | Male                               |
+| favorite color      | #000000                            |
+| Favorite food       | Pizza                              |
+| Pinneapple on pizza | [ ] Oui   [x] Non                  |
+
+
