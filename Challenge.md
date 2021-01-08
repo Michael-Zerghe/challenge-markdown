@@ -3,7 +3,7 @@
 *Yesterday you said tomorrow. Just do It. Nike*
 
 
-## Always here to make a smile on your face !
+## Always here to put a smile on your face !
 
 | Information         | Answers                            |
 | ------------------  | ---------------------------------- |
