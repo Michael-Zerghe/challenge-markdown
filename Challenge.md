@@ -1,6 +1,6 @@
 # Michael Zerghe
 
-*Yesterday you said tomorrow. Just do It. Nike*
+*"Yesterday you said tomorrow. Just do It." Nike*
 
 
 ## Always here to put a smile on your face !
